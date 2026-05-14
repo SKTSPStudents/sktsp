@@ -1,0 +1,53 @@
+[
+    {
+        "id": "event-1",
+        "title": "Annual Thyagaraja Aradhana",
+        "date": "January 2026",
+        "description": "A reverential tribute to the trinity of Carnatic music, featuring renditions of the Pancharatna Kritis by students and guest vidwans.",
+        "type": "concert",
+        "thumbnail": "/images/events/event-1.jpg",
+        "gallery": [
+            "/images/events/event-1-gallery-1.jpg",
+            "/images/events/event-1-gallery-2.jpg"
+        ],
+        "videoUrl": ""
+    },
+    {
+        "id": "event-2",
+        "title": "Navaratri Sangeetha Utsavam",
+        "date": "October 2025",
+        "description": "Nine evenings of devotional music celebrating the divine feminine, with student recitals and invited artists performing rare kritis.",
+        "type": "festival",
+        "thumbnail": "/images/events/event-2.jpg",
+        "gallery": [
+            "/images/events/event-2-gallery-1.jpg",
+            "/images/events/event-2-gallery-2.jpg"
+        ],
+        "videoUrl": ""
+    },
+    {
+        "id": "event-3",
+        "title": "Guru Vandana — Annual Day",
+        "date": "March 2026",
+        "description": "An evening dedicated to honouring our Gurus, featuring student performances showcasing their progress across all three pillars of our curriculum.",
+        "type": "concert",
+        "thumbnail": "/images/events/event-3.jpg",
+        "gallery": [
+            "/images/events/event-3-gallery-1.jpg",
+            "/images/events/event-3-gallery-2.jpg"
+        ],
+        "videoUrl": ""
+    },
+    {
+        "id": "event-4",
+        "title": "Margazhi Kutcheri Series",
+        "date": "December 2025",
+        "description": "The sacred month of Margazhi brings our finest student performances in a week-long series of traditional Carnatic concerts.",
+        "type": "concert",
+        "thumbnail": "/images/events/event-4.jpg",
+        "gallery": [
+            "/images/events/event-4-gallery-1.jpg"
+        ],
+        "videoUrl": ""
+    }
+]

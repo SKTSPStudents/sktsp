@@ -1,0 +1,47 @@
+[
+    {
+        "id": "shankaracharya",
+        "name": "Jagadguru Sri Adi Shankaracharya Mahaswamigal",
+        "period": "8th Century CE",
+        "title": "The First Acharya",
+        "description": "Composed timeless devotional hymns (Stotras) that form the spiritual foundation of many Carnatic kritis.",
+        "photo": "/images/parampara/shankaracharya.jpg",
+        "contributions": []
+    },
+    {
+        "id": "chandrasekharendra-saraswati",
+        "name": "Jagadguru Sri Chandrasekharendra Saraswati",
+        "period": "1894 - 1994",
+        "title": "Maha Periyava",
+        "description": "A profound patron of classical arts who guided and blessed countless legendary Carnatic musicians of the 20th century.",
+        "photo": "/images/parampara/chandrasekharendra-saraswati.jpg",
+        "contributions": []
+    },
+    {
+        "id": "jayendra-saraswathi",
+        "name": "Jagadguru Sri Jayendra Saraswathi",
+        "period": "1935 - 2018",
+        "title": "The 69th Pontiff",
+        "description": "Supported the proliferation of traditional music schools and encouraged the integration of fine arts with Vedic education.",
+        "photo": "/images/parampara/jayendra-saraswathi.jpg",
+        "contributions": []
+    },
+    {
+        "id": "shankara-vijayendra",
+        "name": "Jagadguru Sri Shankara Vijayendra Saraswathi",
+        "period": "Present",
+        "title": "The 70th Pontiff",
+        "description": "Steadfastly continues the preservation of Carnatic heritage, inspiring youth to take up classical arts through divine blessings.",
+        "photo": "/images/parampara/vijayendra-saraswathi.jpg",
+        "contributions": []
+    },
+    {
+        "id": "satya-chandrashekarendra",
+        "name": "Jagadguru Sri Satya Chandrashekarendra Saraswathi",
+        "period": "Historical",
+        "title": "Revered Acharya",
+        "description": "Upheld the unbroken tradition of linking spiritual discipline with musical devotion across the lineage.",
+        "photo": "/images/parampara/satya-chandrashekarendra.jpg",
+        "contributions": []
+    }
+]

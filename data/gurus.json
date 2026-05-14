@@ -1,0 +1,54 @@
+[
+    {
+        "id": "guru-1",
+        "name": "EDIT_THIS_GURU_NAME",
+        "title": "EDIT_THIS_TITLE",
+        "specialization": "EDIT_THIS_SPECIALIZATION",
+        "bio": "EDIT_THIS_BIO",
+        "experience": "EDIT_THIS_EXPERIENCE",
+        "photo": "/images/gurus/guru-1.jpg",
+        "achievements": [
+            "EDIT_THIS_ACHIEVEMENT_1",
+            "EDIT_THIS_ACHIEVEMENT_2"
+        ]
+    },
+    {
+        "id": "guru-2",
+        "name": "EDIT_THIS_GURU_NAME",
+        "title": "EDIT_THIS_TITLE",
+        "specialization": "EDIT_THIS_SPECIALIZATION",
+        "bio": "EDIT_THIS_BIO",
+        "experience": "EDIT_THIS_EXPERIENCE",
+        "photo": "/images/gurus/guru-2.jpg",
+        "achievements": [
+            "EDIT_THIS_ACHIEVEMENT_1",
+            "EDIT_THIS_ACHIEVEMENT_2"
+        ]
+    },
+    {
+        "id": "guru-3",
+        "name": "EDIT_THIS_GURU_NAME",
+        "title": "EDIT_THIS_TITLE",
+        "specialization": "EDIT_THIS_SPECIALIZATION",
+        "bio": "EDIT_THIS_BIO",
+        "experience": "EDIT_THIS_EXPERIENCE",
+        "photo": "/images/gurus/guru-3.jpg",
+        "achievements": [
+            "EDIT_THIS_ACHIEVEMENT_1",
+            "EDIT_THIS_ACHIEVEMENT_2"
+        ]
+    },
+    {
+        "id": "guru-4",
+        "name": "EDIT_THIS_GURU_NAME",
+        "title": "EDIT_THIS_TITLE",
+        "specialization": "EDIT_THIS_SPECIALIZATION",
+        "bio": "EDIT_THIS_BIO",
+        "experience": "EDIT_THIS_EXPERIENCE",
+        "photo": "/images/gurus/guru-4.jpg",
+        "achievements": [
+            "EDIT_THIS_ACHIEVEMENT_1",
+            "EDIT_THIS_ACHIEVEMENT_2"
+        ]
+    }
+]

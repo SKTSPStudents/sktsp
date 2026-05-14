@@ -1,0 +1,17 @@
+{
+    "address": {
+        "line1": "No.57, South KR koil Street",
+        "line2": "West Mambalam",
+        "cityStatePin": "Chennai - 600033"
+    },
+    "phone": [
+        "+91 9176555396",
+        "+91 9176534702"
+    ],
+    "email": "sangeethapatasala@gmail.com",
+    "socials": {
+        "facebook": "#",
+        "instagram": "#",
+        "youtube": "#"
+    }
+}

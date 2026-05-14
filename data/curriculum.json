@@ -1,0 +1,86 @@
+[
+    {
+        "id": "vocal-beginner",
+        "name": "Carnatic Vocal – Beginners",
+        "summary": "This is where it all begins. We start with the basics of Carnatic music, including the fundamentals of Carnatic music, the history of Carnatic music, and the different styles of Carnatic music.",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "8–14",
+        "duration": "2 Years",
+        "thumbnail": "/images/curriculum/vocal-beginner.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    },
+    {
+        "id": "vocal-intermediate",
+        "name": "Carnatic Vocal – Intermediate",
+        "summary": "EDIT_THIS_SUMMARY",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "12–18",
+        "duration": "3 Years",
+        "thumbnail": "/images/curriculum/vocal-intermediate.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    },
+    {
+        "id": "vocal-advanced",
+        "name": "Carnatic Vocal – Advanced",
+        "summary": "EDIT_THIS_SUMMARY",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "16+",
+        "duration": "Ongoing",
+        "thumbnail": "/images/curriculum/vocal-advanced.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    },
+    {
+        "id": "veena",
+        "name": "Veena",
+        "summary": "EDIT_THIS_SUMMARY",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "10+",
+        "duration": "3 Years",
+        "thumbnail": "/images/curriculum/veena.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    },
+    {
+        "id": "violin",
+        "name": "Violin",
+        "summary": "EDIT_THIS_SUMMARY",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "8+",
+        "duration": "3 Years",
+        "thumbnail": "/images/curriculum/violin.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    },
+    {
+        "id": "mridangam",
+        "name": "Mridangam",
+        "summary": "EDIT_THIS_SUMMARY",
+        "description": "EDIT_THIS_DESCRIPTION",
+        "ageGroup": "10+",
+        "duration": "3 Years",
+        "thumbnail": "/images/curriculum/mridangam.jpg",
+        "highlights": [
+            "EDIT_THIS_HIGHLIGHT_1",
+            "EDIT_THIS_HIGHLIGHT_2",
+            "EDIT_THIS_HIGHLIGHT_3"
+        ]
+    }
+]
