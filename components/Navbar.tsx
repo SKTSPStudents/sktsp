@@ -68,9 +68,10 @@ export default function Navbar() {
                 >
                     <div className="relative w-8 h-8 md:w-10 md:h-10 rounded-full overflow-hidden gold-border-thin">
                         <Image
-                            src="/images/branding/logo.jpg"
+                            src="/images/branding/logo.jpeg"
                             alt="Sri Kamakoti Triveni Sangeetha Patasala Logo"
-                            fill
+                            width={40}
+                            height={35}
                             className="object-cover"
                             priority
                         />
