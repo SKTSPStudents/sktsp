@@ -84,11 +84,9 @@ export default function AboutSection() {
                             <div className="absolute bottom-0 right-0 w-16 h-16 border-b-2 border-r-2 border-primary/20 rounded-br-xl m-2" />
 
                             <h3 className="heading-accent mb-4 text-2xl">Our Sacred Vision</h3>
-                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">
-                                Under the divine guidance of Kanchi Kamakoti Peetathipathi Jagadguru Sri Shankara Vijayendra Saraswathi Swamigal, Sri Kamakoti Triveni Sangeetha Patashala has been established exclusively for Brahmin boys with the noble aim of preserving and nurturing the rich traditions of Shastriya Sangeetham and Vedic education for future generations.
-                            </p><p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">
-                                This sacred initiative serves as a boon to the community, offering children the rare opportunity to receive the best of modern schooling alongside traditional learning, thereby ensuring that the eternal values of Sanatana Dharma remain vibrant and enriched for years to come.
-                            </p>
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Under the divine guidance of Kanchi Kamakoti Peetathipathi Jagadguru Sri Shankara Vijayendra Saraswathi Swamigal,</p>
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Sri Kamakoti Triveni Sangeetha Patashala has been established exclusively for Brahmin boys with the noble aim of preserving and nurturing the rich traditions of Shastriya Sangeetham and Vedic education for future generations.</p>
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">This sacred initiative serves as a boon to the community, offering children the rare opportunity to receive the best of modern schooling alongside traditional learning, thereby ensuring that the eternal values of Sanatana Dharma remain vibrant and enriched for years to come.</p>
                         </div>
                     </div>
 
@@ -99,14 +97,10 @@ export default function AboutSection() {
                             <h3 className="font-heading text-2xl md:text-3xl font-bold text-foreground">
                                 The Genesis
                             </h3>
-                            <p className="font-body text-base text-muted-foreground leading-relaxed">
-                                Founded with the belief that true education must nurture both intellect and spirit, the Patashala integrates the Tamil Nadu State Board curriculum with Carnatic music, Vedic studies, and Sanskrit learning. This dual approach ensures that students not only excel academically but also grow with a strong cultural and spiritual foundation.
-                            </p>
+                            <p className="font-body text-base text-muted-foreground leading-relaxed">Founded with the belief that true education must nurture both intellect and spirit, the Patashala integrates the Tamil Nadu State Board curriculum with Carnatic music, Vedic studies, and Sanskrit learning. This dual approach ensures that students not only excel academically but also grow with a strong cultural and spiritual foundation.</p>
                             <p className="font-body text-base text-muted-foreground leading-relaxed">The genesis of this initiative lies in the conviction that education should be accessible to all, regardless of financial background. Thus, the Patashala provides free education, accommodation, food, and medical care, ensuring that no child is denied the opportunity to learn.</p>
                             <p className="font-body text-base text-muted-foreground leading-relaxed">Guided by a team of devoted teachers and mentors, the Patashala continues to flourish as a sanctuary where young minds are shaped into scholars, artists, and custodians of tradition, ready to contribute meaningfully to society.</p>
-                            <p className="font-body text-base text-muted-foreground leading-relaxed">
-                                Our institution serves as a beacon of cultural preservation, ensuring that the divine art form of Carnatic music continues to flourish and inspire future generations.
-                            </p>
+                            <p className="font-body text-base text-muted-foreground leading-relaxed">Our institution serves as a beacon of cultural preservation, ensuring that the divine art form of Carnatic music continues to flourish and inspire future generations.</p>
                         </div>
 
                         {/* Right Column: YouTube embed */}
