@@ -1,5 +1,6 @@
 "use client";
 
+import { Weight } from "lucide-react";
 import { useEffect, useRef } from "react";
 
 export default function AboutSection() {
@@ -76,17 +77,19 @@ export default function AboutSection() {
                             </h2>
                             <div className="divider-gold mx-auto" />
                         </div>
-                        <div className="border border-border rounded-xl p-8 md:p-12 bg-card shadow-soft max-w-4xl mx-auto text-center relative overflow-hidden">
+                        <div className="border border-border rounded-xl p-8 md:p-12 bg-card shadow-soft max-w-4xl mx-auto text-left relative overflow-hidden ">
                             {/* Decorative corner accents */}
                             <div className="absolute top-0 left-0 w-16 h-16 border-t-2 border-l-2 border-primary/20 rounded-tl-xl m-2" />
                             <div className="absolute top-0 right-0 w-16 h-16 border-t-2 border-r-2 border-primary/20 rounded-tr-xl m-2" />
                             <div className="absolute bottom-0 left-0 w-16 h-16 border-b-2 border-l-2 border-primary/20 rounded-bl-xl m-2" />
                             <div className="absolute bottom-0 right-0 w-16 h-16 border-b-2 border-r-2 border-primary/20 rounded-br-xl m-2" />
 
-                            <h3 className="heading-accent mb-4 text-2xl">Our Sacred Vision</h3>
-                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Under the divine guidance of Kanchi Kamakoti Peetathipathi Jagadguru Sri Shankara Vijayendra Saraswathi Swamigal,</p>
-                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Sri Kamakoti Triveni Sangeetha Patashala has been established exclusively for Brahmin boys with the noble aim of preserving and nurturing the rich traditions of Shastriya Sangeetham and Vedic education for future generations.</p>
-                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">This sacred initiative serves as a boon to the community, offering children the rare opportunity to receive the best of modern schooling alongside traditional learning, thereby ensuring that the eternal values of Sanatana Dharma remain vibrant and enriched for years to come.</p>
+                            <h3 className="heading-accent mb-4 text-2xl text-center ">Our Sacred Vision</h3>
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Under the divine guidance of Kanchi Kamakoti Peetathipathi Jagadguru</p>
+                            <p className="font-body text-lg md:text-xl text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10"><strong>Sri Shankara Vijayendra Saraswathi Swamigal</strong></p>
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">Sri Kamakoti Triveni Sangeetha Patashala has been established exclusively for Brahmin boys with the noble aim of preserving and nurturing the rich traditions of <strong>Shastriya Sangeetham</strong> and <strong>Vedic education</strong> for future generations.</p>
+                            <br />
+                            <p className="font-body text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto relative z-10">This sacred initiative serves as a boon to the community, offering children the rare opportunity to receive the best of modern schooling alongside traditional learning, thereby ensuring that the eternal values of <strong>Sanatana Dharma</strong> remain vibrant and enriched for years to come.</p>
                         </div>
                     </div>
 
